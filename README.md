@@ -51,6 +51,6 @@ Yazılım Test Uzmanlığı Eğitimi: Sıfırdan İleri Seviye
 "https://www.udemy.com/certificate/UC-8b443327-04b5-4407-9bec-cdaf75811889/"
 
                              #  Communication: rahmialdemir@outlook.com
-                             #     "www.linkedin.com/in/rahmi-aldemir"
+                             #  "https://www.linkedin.com/in/rahmi-aldemir"
 
 
