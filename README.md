@@ -19,7 +19,8 @@ Sürekli iyileştirme, işbirliği ve iş hedefleriyle uyumlu, etkili çözümle
 
 I have certificates ;  
 Sahip olduğum sertifikalar ;   
-
+ISTQB (International Software Qualifications Board)
+"https://app.diplomasafe.com/en-US/diploma/d12d8ba97bc385fb7dd46334d1cb1cbb6156847b7"
 Foundations of Project Management
 "https://www.coursera.org/account/accomplishments/verify/NGJ9PEWFTSDV?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
 
