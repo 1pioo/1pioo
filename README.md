@@ -9,11 +9,11 @@ Passionate about continuous improvement, collaboration, and delivering impactful
 
 # Merhaba, ben Rahmi 👋
 
-API, UI ve işlevsel testler dahil olmak üzere manuel ve otomatik testlerde pratik deneyime sahip, sonuç odaklı Yazılım Kalite Güvence Mühendisi ve CRM Uzmanı. Postman, JIRA, SQL ve JMeter gibi araçlarda yetkin, yüksek kaliteli, kullanıcı odaklı yazılım teslimatı sağlar.
+API, UI ve işlevsel testler dahil olmak üzere manuel ve otomatik testlerde pratik deneyime sahip, sonuç odaklı Yazılım Kalite Güvence Mühendisi ve CRM Uzmanıyım. Postman, JIRA, SQL ve JMeter gibi araçlarda yetkin, yüksek kaliteli, kullanıcı odaklı yazılım teslimatı sağlar.
 
-CRM kampanya yönetimi ve müşteri sadakat stratejilerinde kanıtlanmış başarı geçmişi, iş süreçlerini ve müşteri memnuniyetini iyileştirmek için Agile çapraz fonksiyonlu ekiplerde iş akışlarını optimize eder. Finans ve e-ticaret alanlarında sektör deneyimi, yazılım kalitesi ve CRM girişimleri konusunda benzersiz bir bakış açısı sunar.
+CRM kampanya yönetimi ve müşteri sadakat stratejilerinde kanıtlanmış başarı geçmişi, iş süreçlerini ve müşteri memnuniyetini iyileştirmek için Agile çapraz fonksiyonlu ekiplerde iş akışlarını optimize eder. Finans ve e-ticaret alanlarında sektör deneyimi, yazılım kalitesi ve CRM girişimleri konusunda benzersiz bir bakış açısı sunmak temel hedefim.
 
-Sürekli iyileştirme, işbirliği ve iş hedefleriyle uyumlu, etkili çözümler sunma konusunda tutkulu.
+Sürekli iyileştirme, işbirliği ve iş hedefleriyle uyumlu, etkili çözümler sunma konusunda tutkuluyum.
 
 
 
